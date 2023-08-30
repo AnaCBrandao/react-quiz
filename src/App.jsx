@@ -29,4 +29,4 @@ function App() {
 export default App
 
 
-//ponto de parada 43:43
+//ponto de parada 58:43
