@@ -6,6 +6,8 @@ import Welcome from './components/Welcome'
 import Question from './components/Question'
 import GameOver from './components/GameOver'
 
+import Logo from './img/logo.png'
+
 import './App.css'
 
 function App() {
@@ -18,7 +20,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Quiz de programação</h1>
+      <img src={Logo} alt="logo_jojo" ></img>
       {quizState.gameStage === "Start" && <Welcome/>}
       {quizState.gameStage === "Playing" && <Question/>}
       {quizState.gameStage === "End" && <GameOver/>}
