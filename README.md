@@ -1,12 +1,9 @@
 # quiz-jojo
 
 <div align="center">
-  <img width="280px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JoJo%27s_Bizarre_Adventure_logo.png"/>
-</div>
-<div align="center">
   <p>A JoJo's Bizarre Adventure quiz to test your knowledge about the series.</p>
   <p>Using React and Vite to create a single page responsive application.</p>
-  <img width="900px" src="https://media.discordapp.net/attachments/767910421025521665/1164992555964956742/lv_0_20231020152236.gif"/>
+  <img width="900px" src="https://media.discordapp.net/attachments/767910421025521665/1201599848667938826/Screenshot_2024-01-29_at_15-48-11_Quiz_App.png"/>
 </div>
 
 ## Features
