@@ -3,7 +3,7 @@
 <div align="center">
   <p>A JoJo's Bizarre Adventure quiz to test your knowledge about the series.</p>
   <p>Using React and Vite to create a single page responsive application.</p>
-  <p><a href="https://anacbrandao.github.io/joquiz/">Open in GitHub Pages</a></p>
+  <p><a href="">Open in GitHub Pages</a></p>
   <img width="900px" src="https://media.discordapp.net/attachments/767910421025521665/1201599848667938826/Screenshot_2024-01-29_at_15-48-11_Quiz_App.png"/>
 </div>
 
